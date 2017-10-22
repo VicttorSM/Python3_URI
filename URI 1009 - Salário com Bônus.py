@@ -1,0 +1,5 @@
+A=input()
+B=float(input())
+C=float(input())
+SALARY=B+(0.15*C)
+print("TOTAL = R$ %0.2f"%SALARY)
